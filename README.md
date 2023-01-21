@@ -1,7 +1,8 @@
 # Potholes Severity Analysis
  
 > This is a draft for implementing the solution, as the project is still a WIP.
- 
+
+
 This project is an extension on `sm_city` solution, that focuses on providing additional analysis to potholes, such as depth and dimensions.
  
 
